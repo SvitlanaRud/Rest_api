@@ -14,7 +14,7 @@ import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.equalTo;
 
 
-public class RequestSpecifications {
+public class TestsWithRequestAndResponseSpecifications {
 
     private static RequestSpecification requestSpec;
     private static ResponseSpecification responceSpec;
